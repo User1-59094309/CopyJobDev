@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "CopyJob",
+    "displayName": "CopyNYCTaxi"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "945756ac-2627-b65e-4438-28f738e046a6"
+  }
+}
